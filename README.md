@@ -1,5 +1,5 @@
 ###  Hey there 👋 
-<img align="right" src="https://media3.giphy.com/media/gx54W1mSpeYMg/giphy.gif" width="300">
+<img align="right" src="https://i.imgur.com/am0eYJO.gif" width="300">
 
 - :video_game: My hobbies are watching anime, playing some games and annoying my cat
 - :computer: I’m currently studing to earn my bachelor degree in computer science at the Federal University of Amazonas
