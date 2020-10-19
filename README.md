@@ -1,8 +1,10 @@
 ###  Hey there 👋 
-<img align="right" src="https://i.imgur.com/am0eYJO.gif" width="300">
+<img align="right" src="https://i.imgur.com/am0eYJO.gif" width="300" height="400">
 
 - :video_game: My hobbies are watching anime, playing some games and annoying my cat
 - :computer: I’m currently studing to earn my bachelor degree in computer science at the Federal University of Amazonas
+
+
 #### 🛠 Tech stack currently using
 
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
@@ -27,8 +29,14 @@
   </a>
 </p>
 
+<br>
+
 <p>
   <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=fernandamserra&count_private=true"
+    />
+ <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandamserra&count_private=true&layout=compact"
     />
