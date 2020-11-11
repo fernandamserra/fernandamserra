@@ -30,14 +30,20 @@
 </p>
 
 <br>
+<table width="100%">
+  <tr>
+  <td width = "50%">
+    <br>
+    <p align = "center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandamserra&count_private=true"/>
+    </p>
+  </td>
+  <td width = "50%">
+    <br>
+    <p align = "center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandamserra&count_private=true&layout=compact"/>
+    </p>
+  </td>
 
-<p>
-  <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=fernandamserra&count_private=true"
-    />
- <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandamserra&count_private=true&layout=compact"
-    />
-  </p>
+  </table>
+
