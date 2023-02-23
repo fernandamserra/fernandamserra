@@ -2,7 +2,7 @@
 <img align="right" src="https://i.imgur.com/am0eYJO.gif" width="300" height="400">
 
 - :video_game: My hobbies are watching anime, playing some games and annoying my cat
-- :computer: I’m currently studing to earn my bachelor degree in computer science at the Federal University of Amazonas
+- :computer: I’m currently studying to earn my bachelor degree in computer science at the Federal University of Amazonas
 
 
 #### 🛠 Tech stack currently using
