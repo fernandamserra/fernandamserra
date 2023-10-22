@@ -1,32 +1,29 @@
 ###  Hey there 👋 
-<img align="right" src="https://i.imgur.com/am0eYJO.gif" width="300" height="400">
-
-- :video_game: My hobbies are watching anime, playing some games and annoying my cat
-- :computer: I’m currently studying to earn my bachelor degree in computer science at the Federal University of Amazonas
-
 
 #### 🛠 Tech stack currently using
 
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
+<code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+<code><a href="https://nestjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></a></code>
+<code><a href="https://www.reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
+<code><a href="https://aws.amazon.com/en;" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 
 #### :books: I’m currently learning
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-<code><a href="https://www.reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></a></code>
+<code><a href="https://aws.amazon.com/en;" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 
 #### :loudspeaker: You can find me at
 <p>
   <a href="https://www.linkedin.com/in/fernanda-serra-18795814a//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fernanda%20Serra-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="mailto:fernanda.serra@icomp.com.ufam.edu.br">
+  <a href="mailto:fmserrat@gmail.com">
     <img 
        alt="Email" 
-       src="https://img.shields.io/badge/Email-fernanda.serra@icomp.com.ufam.edu.br-blue?style=flat-square&logo=gmail">
+       src="https://img.shields.io/badge/Email-fmserrat@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
 
