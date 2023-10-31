@@ -1,4 +1,5 @@
 ###  Hey there 👋 
+I'm a computer scientist working as fullstack web developer.
 
 #### 🛠 Tech stack currently using
 
